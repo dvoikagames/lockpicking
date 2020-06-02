@@ -1,0 +1,52 @@
+{"frames": {
+
+"background.png":
+{
+	"frame": {"x":0,"y":525,"w":1366,"h":768},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1366,"h":768},
+	"sourceSize": {"w":1366,"h":768}
+},
+"box.png":
+{
+	"frame": {"x":0,"y":0,"w":17,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":17},
+	"sourceSize": {"w":17,"h":17}
+},
+"hairpin.png":
+{
+	"frame": {"x":61,"y":0,"w":46,"h":369},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":369},
+	"sourceSize": {"w":46,"h":369}
+},
+"point.png":
+{
+	"frame": {"x":18,"y":0,"w":42,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":42},
+	"sourceSize": {"w":42,"h":42}
+},
+"screwdriver.png":
+{
+	"frame": {"x":108,"y":0,"w":716,"h":524},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":716,"h":524},
+	"sourceSize": {"w":716,"h":524}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "lockpick.png",
+	"format": "RGBA8888",
+	"size": {"w":1366,"h":1293},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d7449bb10dc6c638b37782c6bbac14de:b78957b61097b9eb587e32ea8445db7c:4f0bfdd5e96a040baa5b7c91bc63523a$"
+}
+}
